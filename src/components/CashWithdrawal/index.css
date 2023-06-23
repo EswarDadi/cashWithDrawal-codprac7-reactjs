@@ -1,0 +1,54 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.card-container {
+  background-color: #150b3e;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 12px;
+}
+.main-heading {
+  color: #d4d2db;
+}
+.description {
+  color: #585076;
+  font-size: 32px;
+}
+.amount {
+  color: #c4c4c4;
+  font-size: 32px;
+  font-weight: 400;
+}
+.withdraw {
+  color: #d4d2db;
+  font-weight: 400;
+  font-size: 34px;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.s {
+  padding: 25px;
+  width: 75px;
+  padding-right: 17px;
+  margin-right: 5px;
+
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  border-color: #c7d2fe;
+  border-radius: 50px;
+}
+.flex-container1 {
+  display: flex;
+  margin-left: 5px;
+  padding: 5px;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}

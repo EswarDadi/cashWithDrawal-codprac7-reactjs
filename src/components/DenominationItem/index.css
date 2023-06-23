@@ -1,0 +1,11 @@
+.list-container {
+  list-style: none;
+}
+.button {
+  width: 150px;
+  height: 30px;
+  background-color: #585076;
+  margin-left: 5px;
+  border-color: #d4d2db;
+  border-width: 0.5px;
+}
